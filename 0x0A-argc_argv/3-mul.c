@@ -1,6 +1,6 @@
 /*
  * File: 3-mul.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include <stdio.h>
