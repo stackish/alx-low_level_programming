@@ -1,6 +1,6 @@
 /*
  * File: 100-change.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include <stdio.h>
