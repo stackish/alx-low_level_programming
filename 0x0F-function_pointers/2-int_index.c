@@ -1,6 +1,6 @@
 /*
  * File: 2-int_index.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include "function_pointers.h"
