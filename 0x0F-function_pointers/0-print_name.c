@@ -1,6 +1,6 @@
 /*
  * File: 0-print_name.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include "function_pointers.h"
