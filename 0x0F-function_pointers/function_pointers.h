@@ -3,7 +3,7 @@
 
 /*
  * File: function_pointers.h
- * AUth: Chibuike
+ * AUth: Ifeanyi
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0E-function_pointers directory.
  */
