@@ -1,6 +1,6 @@
 /*
  * File: 1-args.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include <stdio.h>
