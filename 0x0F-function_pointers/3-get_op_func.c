@@ -1,6 +1,6 @@
 /*
  * File: 3-get_op_func.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include "3-calc.h"
