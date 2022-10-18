@@ -1,6 +1,6 @@
 /*
  * File: 0-whatsmyname.c
- * Chibuike
+ * Ifeanyi
  */
 
 #include <stdio.h>
