@@ -1,6 +1,6 @@
 /*
  * File: 100-main_opcodes.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include <stdio.h>
