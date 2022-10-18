@@ -1,1 +1,1 @@
-0x10-variadic_functions
+A code written in c that makes use of variadic functions
