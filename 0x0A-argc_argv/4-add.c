@@ -1,6 +1,6 @@
 /*
  * File: 4-add.c
- * Auth: Chibuike
+ * Auth: Ifeanyi
  */
 
 #include <stdio.h>
