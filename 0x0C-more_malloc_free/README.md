@@ -1,1 +1,1 @@
-0x0C-more_malloc_free
+A program written in c that covers the use of mallocs in executing it's functions
