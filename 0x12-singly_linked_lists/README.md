@@ -1,1 +1,1 @@
-0x12-singly_linked_lists
+This is a c code that makes use of singly linked lists in its executions
