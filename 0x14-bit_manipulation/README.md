@@ -1,1 +1,1 @@
-0x14-bit_manipulation
+a c code that indicates bit manipulations
